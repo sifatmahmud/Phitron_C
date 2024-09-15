@@ -17,6 +17,7 @@ int main()
                 adj[i][j] = 0;
         }
     }
+
     while (e--)
     {
         int a, b, c;
